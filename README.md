@@ -1,6 +1,6 @@
 <img width="1512" height="826" alt="Cat   Mouse" src="https://github.com/user-attachments/assets/34c39490-1a03-4124-94f6-8e1eba09fcb8" />
 
-# Cat & Mouse: Multiplayer Territory Game
+# Cat，Mice
 
 A real-time multiplayer spatial pursuit game
 
